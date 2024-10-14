@@ -13,7 +13,7 @@ const Header = () => {
          justify-between z-20 stick top-0 transition-transform duration-300 ${show}`}>
             <Wrapper>
                 <Link href="/">
-                <img src="" alt="" className="w-[40px] md:w-[60px" />
+                <img src="" alt="" className="w-[40px] md:w-[60px" g/>
                 </Link>
             </Wrapper>
             </header>;
